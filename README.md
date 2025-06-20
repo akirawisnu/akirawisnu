@@ -18,21 +18,22 @@ Here are some ideas to get you started:
 ### Data and Research are passions of mine, they are a never ending learning process.
 
 
-- 🤔 I’m currently looking for a job, either as a consultant to WB, FAO, or IFPRI
+- 🤔 I’m currently looking for a job, either as a consultant to WB, FAO, IFPRI, or other notable research institutions
 - 👯 I’m looking to collaborate on research related to:
-  - Economics of COVID recovery in Developing country
-  - Labor market mismatch
-  - International Trade and Food Security
+  - Development Economics
+  - Labor Market Mismatch
+  - Globalization and Food Security
   - Education and Development
   - Poverty Targeting and Reduction
-  - Food Security and Nutrition Intakes
-  - Trade Openess and Food System
 - 🗣 I speak:
   - Indonesian (native)
-  - English (second language)
+  - English (professional proficiency)
   - German (basic)
   - Stata (my very first programming language)
-  - Python (second language)
+  - Python (my professional programming language)
   - R (not really love it, but it's ok)
-  - LaTeX
+  - Rust (basic)
+  - HTML (for fun project and dynamic visualization)
+  - LaTeX (my academic language)
+  - QGIS and Geopandas (spatial analysis)
 - 📷 My hobby Portfolio: https://apartureproject.pixieset.com/
