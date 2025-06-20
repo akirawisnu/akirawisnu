@@ -1,4 +1,4 @@
-<h1 align="center">Hola 👋 I'm Akira Wisnu</h1>
+<h1 align="center">Hola 👋 I'm Wisnu</h1>
 
 <p align="center">💡 Economist | 📊 Data Scientist | 🌍 Development Researcher | 📷 Visual Storyteller</p>
 
